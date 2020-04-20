@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Markdown Editor</h1>
+    <h1>Jon's Markdown Editor</h1>
     <editor></editor>
   </div>
 </template>
